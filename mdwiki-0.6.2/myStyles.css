@@ -1,0 +1,23 @@
+/* Customize CSS */
+h1.md-inpage-anchor {
+  font-size: 150%;
+  padding-left: 10px;
+}
+h2.md-inpage-anchor {
+  font-size: 120%;
+  border-left: 20px solid #909090;
+  border-bottom: 1px solid #909090;
+  padding-left: 10px;
+}
+h3.md-inpage-anchor {
+  font-size: 110%;
+  border-left: 10px solid #909090;
+  border-bottom: 1px solid #909090;
+  padding-left: 10px;
+}
+h4.md-inpage-anchor {
+  font-size: 100%;
+  border-left: 5px solid #909090;
+  border-bottom: 1px solid #909090;
+  padding-left: 10px;
+}

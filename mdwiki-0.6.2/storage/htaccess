@@ -1,0 +1,4 @@
+AuthType		Basic
+AuthName		"LectureFiles"
+AuthUserFile	/home/nakamura.tetsu/web/storage/.htpasswd
+require		valid-user
