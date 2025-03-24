@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>パスワード認証</title>
+</head>
+<body>
+  <h3>三重大学生物資源学研究科共生環境学専攻「共生環境学特別講義Ⅰ」集中講義2022/2/26-28  </h3>
+  <ol>
+  <li>[オリエンテーション]</li>
+  <li>[大気力学の基礎]</li>
+  <li>[成層圏循環]</li>
+  <li>[北極温暖化と成層圏]</li>
+  <li>[気候シミュレーション]</li>
+  <li>[LBM初級講座（概要編）]</li>
+  <li>[LBM初級講座（実践編）]</li>
+  </ol>
+  <h3>ファイル閲覧にはパスワードが必要です</h3>
+  <input type="password" id="pw" placeholder="パスワードを入力">
+  <button onclick="checkPassword()">送信</button>
+
+  <script>
+    function checkPassword() {
+      const correct = "mieustudents";
+      const input = document.getElementById("pw").value;
+      if (input === correct) {
+        window.location.href = "../#!./storage/real.md"; // 正しい場合のみPDF一覧ページへ遷移
+      } else {
+        alert("パスワードが間違っています。");
+      }
+    }
+  </script>
+</body>
+</html>
