@@ -2,9 +2,9 @@
 
 # **Tetsu Nakamura<span>　　　</span>**  <img src="IMG_1213.jpg" width="170" height="131" border=0>  
 PhD  
-Climate Prediction Division, 
-Japan Meteorological Agency, 105-8431 JAPAN  
-e-mail: te2nakamur(at)(JMA domain)  
+Department of Climate and Geochemistry Research, 
+Meteorological Research Institute, 305-0052 JAPAN  
+e-mail: te2nakamur(at)(MRI domain)  
   
 ## Research activity and interests
 - Climate variability on the inter-annual time scale  
