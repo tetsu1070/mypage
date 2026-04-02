@@ -7,5 +7,7 @@ Polar Research
 Geosciences
 Communications Earth & Environment
 The Cryosphere- **学会コンビーナ/Convener**   JpGU-AGU 2020 "Science in the Arctic Region"JpGU 2019 "Science in the Arctic Region" JpGU 2018 "Science in the Arctic Region"   Young Meteorologist Overnight sessions (YMO) 2011 その他の研究活動/Other Scientific Activities---- **Jan – Feb/2007:**   Assistant researcher, *ship observation* in Northwest Pacific for Fisheries Agency’s marine structure survey project.- **May – Jun/2003:**  Assistant researcher, *field observation* in Thailand for GAME-T project.メディア掲載/Media---
+- 2022年12月　朝日新聞12月5日夕刊「ぷらっとラボ」（北極温暖化がもたらす梅雨期の豪雨災害についての研究成果の紹介）
+- 2022年 8月　朝日新聞8月15日朝刊「まなびつながる広場」（北極温暖化がもたらす日本の寒波についての研究成果紹介、紙面デザイン協力およびコメント掲載）
 - 2022年 4月　NHKニュース（北海道）2022年4月30日放送（北極温暖化に伴う熱波と日本の豪雨についての研究成果の紹介・VTR出演） 
 - 2022年 3月　日刊工業新聞3月3日20面（北極温暖化に伴う熱波と日本の豪雨についての研究成果の紹介） - 2018年 3月　朝日新聞3月18日朝刊「科学の扉」（温暖化がもたらす厳冬傾向について研究成果の紹介） - 2016年11月　読売新聞11月25日朝刊（11月24日の寒波に関して、北極温暖化と中緯度厳冬傾向との関わりについてコメント） - 2015年 9月　NHKスペシャル「巨大災害　MEGA DISASTER Ⅱ　日本に迫る脅威　第１集　極端化する気象　～海と大気の大変動～」2015年9月5日放送（研究成果紹介・VTR出演）     
