@@ -7,6 +7,7 @@ Polar Research
 Geosciences
 Communications Earth & Environment
 The Cryosphere- **学会コンビーナ/Convener**   JpGU-AGU 2020 "Science in the Arctic Region"JpGU 2019 "Science in the Arctic Region" JpGU 2018 "Science in the Arctic Region"   Young Meteorologist Overnight sessions (YMO) 2011 その他の研究活動/Other Scientific Activities---- **Jan – Feb/2007:**   Assistant researcher, *ship observation* in Northwest Pacific for Fisheries Agency’s marine structure survey project.- **May – Jun/2003:**  Assistant researcher, *field observation* in Thailand for GAME-T project.メディア掲載/Media---
+- 2026年 5月　日経新聞5月14日電子版「（サイエンス）北極の温暖化、水蒸気で連鎖的に加速か　気象庁気象研究所」（北極水循環の連鎖による温暖化加速について研究成果の紹介）（[link](https://www.nikkei.com/article/DGXZQOSG117K90R10C26A5000000/)）
 - 2026年 4月　テレ朝日NEWS（ABEMA/Yahooニュース）2026年4月21日放送「（社会）北極で進む温暖化　原因の水蒸気は夏と秋に増加　日本の研究チームの解析で判明」（北極水循環の連鎖による温暖化加速について研究成果の紹介）（[link](https://news.tv-asahi.co.jp/news_society/articles/000500097.html)）
 - 2022年12月　朝日新聞12月5日夕刊「ぷらっとラボ」（北極温暖化がもたらす梅雨期の豪雨災害についての研究成果の紹介）
 - 2022年 8月　朝日新聞8月15日朝刊「まなびつながる広場」（北極温暖化がもたらす日本の寒波についての研究成果紹介、紙面デザイン協力およびコメント掲載）
